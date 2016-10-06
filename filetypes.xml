@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="install" type="JavaScript" />
       <mapping ext="apib" type="Markdown" />
+      <mapping pattern="coverage" type="PHP" />
       <mapping pattern="compile" type="PHP" />
       <mapping pattern="hostname" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
