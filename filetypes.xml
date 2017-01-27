@@ -3,16 +3,16 @@
     <extensionMap>
       <mapping pattern="install" type="JavaScript" />
       <mapping ext="apib" type="Markdown" />
-      <mapping pattern="coverage" type="PHP" />
       <mapping pattern="compile" type="PHP" />
+      <mapping pattern="coverage" type="PHP" />
       <mapping pattern="hostname" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="apple-app-site-association" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="network" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
-      <removed_mapping ext="tpl" type="Smarty" />
     </extensionMap>
   </component>
 </application>
