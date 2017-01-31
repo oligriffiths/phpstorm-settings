@@ -15,6 +15,6 @@
     <keywords2 keywords="do;else;endforeach;endif;endwhile;for;foreach;if;while" />
   </highlighting>
   <extensionMap>
-    <mapping pattern="*.php.tpl" />
+    <mapping pattern="*.php.tpl.doo" />
   </extensionMap>
 </filetype>
